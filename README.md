@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="border-radius: 2px" width="100%" height="550" src="/banner.gif" />
+  <img class="border-radius: 2px" width="100%" height="550" src="/banner.gif" />
 </div>
 
 <div align="center">
